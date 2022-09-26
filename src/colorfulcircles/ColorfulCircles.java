@@ -35,7 +35,7 @@ public class ColorfulCircles extends Application {
         Group root = new Group();
         Scene scene = new Scene(root, 800, 600, Color.BLACK);
         
-        primaryStage.setTitle("Hello World!");
+        primaryStage.setTitle("Coplorful circles");
         primaryStage.setScene(scene);
         
         Group circles = new Group();
